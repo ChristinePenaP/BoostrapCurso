@@ -16,9 +16,3 @@ JS
 
 * **Jonathan MirCha** - Profesor del Workshop
 * **Christine Peña** - Estudiante 
-
-Github Page
-
-
-
-
